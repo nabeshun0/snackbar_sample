@@ -1,16 +1,6 @@
 # snackbar_sample
 
-A new Flutter application.
+![2021-03-12 00-10-11 2021-03-12 00_10_43](https://user-images.githubusercontent.com/38596913/110808574-78b28400-82c7-11eb-87b9-8089868808f2.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Display a snackbar](https://flutter.dev/docs/cookbook/design/snackbars)
